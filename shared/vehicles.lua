@@ -304,6 +304,7 @@ local Vehicles = {
     { model = 'schwarzer',     name = 'Schwartzer',                    brand = 'Benefactor',      price = 47000,   category = 'sports',         type = 'automobile', shop = 'luxury' },
     { model = 'seven70',       name = 'Seven-70',                      brand = 'Dewbauchee',      price = 140000,  category = 'sports',         type = 'automobile', shop = 'luxury' },
     { model = 'specter',       name = 'Specter',                       brand = 'Dewbauchee',      price = 160000,  category = 'sports',         type = 'automobile', shop = 'luxury' },
+    { model = 'specter2',      name = 'Specter Custom',                brand = 'Dewbauchee',      price = 160000,  category = 'sports',         type = 'automobile', shop = 'luxury' },
     { model = 'streiter',      name = 'Streiter',                      brand = 'Benefactor',      price = 40000,   category = 'sports',         type = 'automobile', shop = 'luxury' },
     { model = 'sugoi',         name = 'Sugoi',                         brand = 'Dinka',           price = 85000,   category = 'sports',         type = 'automobile', shop = 'luxury' },
     { model = 'sultan',        name = 'Sultan',                        brand = 'Karin',           price = 50000,   category = 'sports',         type = 'automobile', shop = 'luxury' },
